@@ -1,0 +1,252 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2dfd2155-e8d4-4a1e-b6a1-e213718e2264)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 25.4 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 009f2931-3d67-4f86-add0-ce7306e773b7)
+    (property "Sheetname" "HC2000_7" (at 25.4 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_7.kicad_sch" (at 25.4 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 127) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0e83e9be-8e42-4706-ba1f-31ce8c8e0a7c)
+    (property "Sheetname" "HC2000_12" (at 25.4 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_12.kicad_sch" (at 25.4 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "12"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4ef60ffe-0a75-4da6-a1e4-2893a3fa869b)
+    (property "Sheetname" "HC2000_10" (at 177.8 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_10.kicad_sch" (at 177.8 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "10"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 127) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 526ae2d6-89f5-4b53-a8c3-de778a1b1253)
+    (property "Sheetname" "HC2000_15" (at 177.8 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_15.kicad_sch" (at 177.8 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "15"))
+      )
+    )
+  )
+
+  (sheet (at 228.6 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 52d3742b-5c81-4b3f-a7ca-9c97bbe16e0a)
+    (property "Sheetname" "HC2000_6" (at 228.6 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_6.kicad_sch" (at 228.6 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 228.6 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 62f03512-fac7-442d-b76e-77882fc80126)
+    (property "Sheetname" "HC2000_11" (at 228.6 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_11.kicad_sch" (at 228.6 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6e4e82a1-9760-425d-9311-184e3038a6b6)
+    (property "Sheetname" "HC2000_2" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_2.kicad_sch" (at 25.4 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6ff5f2c3-42f5-4326-bbfc-cb238a0f9206)
+    (property "Sheetname" "HC2000_8" (at 76.2 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_8.kicad_sch" (at 76.2 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 73e0a9da-cb59-4ba7-9a78-bb9ff954a0d6)
+    (property "Sheetname" "HC2000_5" (at 177.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_5.kicad_sch" (at 177.8 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 127 76.2) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 949c282a-cdab-4cc0-9f9e-9421532e9229)
+    (property "Sheetname" "HC2000_9" (at 127 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_9.kicad_sch" (at 127 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c9d7bc9-d33f-47b6-a57a-cff7f50c45a0)
+    (property "Sheetname" "HC2000_4" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_4.kicad_sch" (at 127 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 127) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid db2401c8-40f3-463e-87ba-e5f630e4c10a)
+    (property "Sheetname" "HC2000_13" (at 76.2 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_13.kicad_sch" (at 76.2 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "13"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f1174c29-c3ba-4e67-bccf-07136b441ccb)
+    (property "Sheetname" "HC2000_3" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_3.kicad_sch" (at 76.2 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 127 127) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f1bf230e-f32f-4449-931a-9ca2d43fdeed)
+    (property "Sheetname" "HC2000_14" (at 127 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "HC2000_14.kicad_sch" (at 127 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "HC2000"
+        (path "/2dfd2155-e8d4-4a1e-b6a1-e213718e2264" (page "14"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
