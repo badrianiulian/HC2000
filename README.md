@@ -13,6 +13,7 @@ Note despre diferențe:
 - gerberele au fost create folosind proiectul HC2000, care este Rev E modificată pentru a include firele lipite peste cablaj
 - observați că unele componente au două valori precum R28, R40 și R41 egale cu 220/1K: prima valoare 220 este pentru Rev B și a doua valoare 1K este pentru Rev E
 - unde se întâlnește un "-", înseamnă că acea componentă lipsește pe cablajul Rev E, dar locul de amplasare al componentei este disponibil
+- pentru conectorul de alimentare am adăugat pe lângă locul de amplasare al conectorului original, un conector cu 6 pini DIN
 
 ## English notes
 HC2000 rebuild project
@@ -27,3 +28,4 @@ Notes on the diferences:
 - gerbers were created using HC2000 project witch is the modified Rev E witch includes the over-the-PCB soldered wires
 - notice some components have two values like R28, R40 and R41 equal 220/1K: first value 220 is for Rev B and second value 1K is for Rev E
 - where a "-" is encountered, it means that the component is missing on Rev E but the footprint is available
+- for the power connector I added side by side with the original connector's footprint, a 6-pin DIN connector
