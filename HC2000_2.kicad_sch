@@ -5971,7 +5971,7 @@
     (property "Reference" "UB6" (at 149.86 32.385 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "ROM - 27C256" (at 149.86 86.36 0)
+    (property "Value" "27C256/27C512" (at 149.86 86.36 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:DIL28" (at 160.02 58.42 0)

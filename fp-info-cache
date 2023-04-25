@@ -1,1 +1,288 @@
+68909280174821
+HC2000
+2X17
+PIN HEADER
+PIN HEADER
 0
+34
+34
+HC2000
+10X04MTA
+AMP MTA CONNECTOR
+AMP MTA CONNECTOR
+0
+4
+4
+HC2000
+140CLH-0810
+ALUMINUM ELECTROLYTIC CAPACITORS SMD (CHIP)
+ALUMINUM ELECTROLYTIC CAPACITORS SMD (CHIP)
+0
+2
+2
+HC2000
+140CLH-1010
+ALUMINUM ELECTROLYTIC CAPACITORS SMD (CHIP)
+ALUMINUM ELECTROLYTIC CAPACITORS SMD (CHIP)
+0
+2
+2
+HC2000
+0204_7
+RESISTOR
+RESISTOR
+0
+2
+2
+HC2000
+AL11P
+SPEAKER
+SPEAKER
+0
+2
+2
+HC2000
+C025-024X024
+CAPACITOR
+CAPACITOR
+0
+2
+2
+HC2000
+C025-024X044
+CAPACITOR
+CAPACITOR
+0
+2
+2
+HC2000
+C025-025X050
+CAPACITOR
+CAPACITOR
+0
+2
+2
+HC2000
+C025-030X050
+CAPACITOR
+CAPACITOR
+0
+2
+2
+HC2000
+CTRIM808-BC
+TRIMM CAPACITOR  BC-COMPONENTS
+TRIMM CAPACITOR  BC-COMPONENTS
+0
+3
+3
+HC2000
+DIL-08
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+8
+8
+HC2000
+DIL14
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+14
+14
+HC2000
+DIL16
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+16
+16
+HC2000
+DIL18
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+18
+18
+HC2000
+DIL20
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+20
+20
+HC2000
+DIL24
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+HC2000
+DIL28
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+28
+28
+HC2000
+DIL28-6
+DUAL IN LINE
+DUAL IN LINE
+0
+28
+28
+HC2000
+DIL40
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+40
+40
+HC2000
+DIP24
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+HC2000
+DO35-7
+DIODE
+DIODE
+0
+2
+2
+HC2000
+DO35-10
+DIODE
+DIODE
+0
+2
+2
+HC2000
+DO35-44
+DIODE
+DIODE
+0
+2
+2
+HC2000
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+HC2000
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+HC2000
+F09D
+SUB-D
+SUB-D
+0
+9
+9
+HC2000
+HC-POWER
+
+
+0
+12
+4
+HC2000
+HC18U-H
+CRYSTAL
+CRYSTAL
+0
+4
+3
+HC2000
+HC_Bus_Edge_Connector
+
+
+0
+54
+54
+HC2000
+HC_Bus_Edge_Connector_ZX
+
+
+0
+54
+54
+HC2000
+ISA-16
+ISA SLOT
+ISA SLOT
+0
+98
+98
+HC2000
+JP1
+JUMPER
+JUMPER
+0
+2
+2
+HC2000
+MAB5SH
+FEMALE CONNECTOR
+FEMALE CONNECTOR
+0
+9
+7
+HC2000
+PIS2816
+PIS 2826 INDUCTOR
+PIS 2826 INDUCTOR
+0
+6
+5
+HC2000
+RESET_SW
+
+
+0
+6
+2
+HC2000
+SDS-60J-CUI_SDS-60J
+
+
+0
+10
+8
+HC2000
+SIL9
+SINGLE IN LINE
+SINGLE IN LINE
+0
+9
+9
+HC2000
+TO-126-3_Vertical
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
+0
+3
+3
+HC2000
+TO18
+TO 18
+TO 18
+0
+3
+3
+HC2000
+TO126
+TO 126 HORIZONTAL
+TO 126 HORIZONTAL
+0
+3
+3
