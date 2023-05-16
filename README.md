@@ -17,7 +17,7 @@ Note despre diferențe:
 
 În proiectul original s-a strecurat o greșeală. Nu am observat o tăietură pe placa originală ceea ce a dus la unirea a două trasee.
 Această secțiune este documentată pe grupul Romanian Home Computer de Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
-![First Rev PCB Fix.png](/Images/First Rev PCB Fix.png "First revision fix")
+![First Rev PCB Fix.png](Images/First Rev PCB Fix.png)
 
 ## English notes
 HC2000 rebuild project
@@ -36,4 +36,4 @@ Notes on the diferences:
 
 In the original project a mistake slipped in. I did not notice a cut on the original PCB witch led to joining of two tracks.
 This section is documented on the Romanian Home Computer group by Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
-![First Rev PCB Fix.png](/Images/First Rev PCB Fix.png "First revision fix")
+![First Rev PCB Fix.png](Images/First Rev PCB Fix.png)
