@@ -15,9 +15,12 @@ Note despre diferențe:
 - unde se întâlnește un "-", înseamnă că acea componentă lipsește pe cablajul Rev E, dar locul de amplasare al componentei este disponibil
 - pentru conectorul de alimentare am adăugat pe lângă locul de amplasare al conectorului original, un conector cu 6 pini DIN
 
-**IMPORTANT**: În proiectul original s-a strecurat o greșeală. Nu am observat o tăietură pe placa originală ceea ce a dus la unirea a două trasee.
-Această secțiune este documentată pe grupul Romanian Home Computer de Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
+**IMPORTANT**: În prima revizie a proiectului s-au strecurat câteva greșeli:
+- Nu am observat o tăietură pe placa originală ceea ce a dus la unirea a două trasee. Această secțiune este documentată pe grupul Romanian Home Computer de Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
+<img src="Images/First Rev PCB Fix 1.jpg" width="300"/>
+- Au rămas două circuite cu titulatura veche de pe proiectul original care a fost convertit
+<img src="Images/First Rev PCB Fix 2.jpg" width="300"/>
 
 ## English notes
 HC2000 rebuild project
@@ -34,6 +37,9 @@ Notes on the diferences:
 - where a "-" is encountered, it means that the component is missing on Rev E but the footprint is available
 - for the power connector I added side by side with the original connector's footprint, a 6-pin DIN connector
 
-**IMPORTANT**: In the original project a mistake slipped in. I did not notice a cut on the original PCB witch led to joining of two tracks.
-This section is documented on the Romanian Home Computer group by Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
+**IMPORTANT**: In the original project a few mistakes slipped in.
+- I did not notice a cut on the original PCB witch led to joining of two tracks. This section is documented on the Romanian Home Computer group by Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
+<img src="Images/First Rev PCB Fix 1.jpg" width="300"/>
+- Two circuits retained the old names from the original converted project
+<img src="Images/First Rev PCB Fix 2.jpg" width="300"/>
