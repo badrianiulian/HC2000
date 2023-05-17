@@ -2764,7 +2764,7 @@
     (property "Reference" "R56" (at 133.1214 123.19 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "220/1k" (at 137.922 123.19 0)
+    (property "Value" "1k" (at 137.922 123.19 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:0204_7" (at 134.62 119.38 0)

@@ -2759,7 +2759,7 @@
     (property "Reference" "R6" (at 156.21 148.3614 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "2M2/2M" (at 156.21 153.162 0)
+    (property "Value" "2M" (at 156.21 153.162 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:0204_7" (at 160.02 149.86 0)
