@@ -18,9 +18,9 @@ Note despre diferențe:
 **IMPORTANT**: În prima revizie a proiectului s-au strecurat câteva greșeli:
 - Nu am observat o tăietură pe placa originală ceea ce a dus la unirea a două trasee. Această secțiune este documentată pe grupul Romanian Home Computer de Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
-<img src="Images/First Rev PCB Fix 1.jpg" width="300"/>
+<img src="Images/First Rev PCB Fix 1.jpg" width="600"/>
 - Au rămas două circuite cu titulatura veche de pe proiectul original care a fost convertit
-<img src="Images/First Rev PCB Fix 2.jpg" width="300"/>
+<img src="Images/First Rev PCB Fix 2.jpg" width="600"/>
 
 ## English notes
 HC2000 rebuild project
@@ -40,6 +40,6 @@ Notes on the diferences:
 **IMPORTANT**: In the original project a few mistakes slipped in.
 - I did not notice a cut on the original PCB witch led to joining of two tracks. This section is documented on the Romanian Home Computer group by Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
-<img src="Images/First Rev PCB Fix 1.jpg" width="300"/>
+<img src="Images/First Rev PCB Fix 1.jpg" width="600"/>
 - Two circuits retained the old names from the original converted project
-<img src="Images/First Rev PCB Fix 2.jpg" width="300"/>
+<img src="Images/First Rev PCB Fix 2.jpg" width="600"/>
