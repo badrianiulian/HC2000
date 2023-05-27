@@ -3160,7 +3160,7 @@
     (property "Reference" "R62" (at 163.83 118.3386 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "910" (at 163.83 113.538 0)
+    (property "Value" "470" (at 163.83 113.538 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:0204_7" (at 160.02 116.84 0)

@@ -2903,7 +2903,7 @@
     (property "Reference" "C6" (at 207.264 167.259 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "150p" (at 207.264 172.339 0)
+    (property "Value" "-" (at 207.264 172.339 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:C025-030X050" (at 205.74 167.64 0)

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Volumes/8TB1/Z80/HC/HC-2000/HC2000-GIT/HC2000.kicad_sch</source>
-    <date>2023 May 17, Wednesday 22:48:23</date>
+    <date>2023 May 27, Saturday 13:24:13</date>
     <tool>Eeschema 7.0.1-0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -701,7 +701,7 @@
     </comp>
     <comp ref="C11">
       <value>270p</value>
-      <footprint>HC2000:C025-025X050</footprint>
+      <footprint>HC2000:C025-030X050</footprint>
       <libsource lib="HC2000" part="C-EU025-030X050" description=""/>
       <property name="Sheetname" value="HC2000_4"/>
       <property name="Sheetfile" value="HC2000_4.kicad_sch"/>
@@ -781,7 +781,7 @@
       <tstamps>3d4cd390-e785-4066-884f-7377aa3cc812</tstamps>
     </comp>
     <comp ref="C6">
-      <value>150p</value>
+      <value>-</value>
       <footprint>HC2000:C025-030X050</footprint>
       <libsource lib="HC2000" part="C-EU025-025X050" description=""/>
       <property name="Sheetname" value="HC2000_5"/>
@@ -1033,7 +1033,7 @@
       <tstamps>a0f3eaf4-63aa-4185-81f2-93284cd24070</tstamps>
     </comp>
     <comp ref="R62">
-      <value>910</value>
+      <value>470</value>
       <footprint>HC2000:0204_7</footprint>
       <libsource lib="HC2000" part="R-EU_0204{slash}7" description=""/>
       <property name="Sheetname" value="HC2000_6"/>
@@ -2022,7 +2022,11 @@
     <comp ref="UA10">
       <value>1488</value>
       <footprint>HC2000:DIL14</footprint>
+      <fields>
+        <field name="Alt">75188</field>
+      </fields>
       <libsource lib="HC2000" part="DIL14" description=""/>
+      <property name="Alt" value="75188"/>
       <property name="Sheetname" value="HC2000_12"/>
       <property name="Sheetfile" value="HC2000_12.kicad_sch"/>
       <sheetpath names="/HC2000_12/" tstamps="/0e83e9be-8e42-4706-ba1f-31ce8c8e0a7c/"/>
@@ -2058,7 +2062,11 @@
     <comp ref="UF12">
       <value>1489</value>
       <footprint>HC2000:DIL14</footprint>
+      <fields>
+        <field name="Alt">75189</field>
+      </fields>
       <libsource lib="HC2000" part="DIL14" description=""/>
+      <property name="Alt" value="75189"/>
       <property name="Sheetname" value="HC2000_12"/>
       <property name="Sheetfile" value="HC2000_12.kicad_sch"/>
       <sheetpath names="/HC2000_12/" tstamps="/0e83e9be-8e42-4706-ba1f-31ce8c8e0a7c/"/>
@@ -2066,7 +2074,7 @@
     </comp>
     <comp ref="C10">
       <value>270p</value>
-      <footprint>HC2000:C025-025X050</footprint>
+      <footprint>HC2000:C025-024X044</footprint>
       <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_13"/>
       <property name="Sheetfile" value="HC2000_13.kicad_sch"/>
@@ -2148,7 +2156,7 @@
     <comp ref="CD1">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2157,7 +2165,7 @@
     <comp ref="CD2">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2166,7 +2174,7 @@
     <comp ref="CD3">
       <value>100u</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2175,7 +2183,7 @@
     <comp ref="CD4">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2184,7 +2192,7 @@
     <comp ref="CD5">
       <value>100u</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2193,7 +2201,7 @@
     <comp ref="CD6">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2202,7 +2210,7 @@
     <comp ref="CD7">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2211,7 +2219,7 @@
     <comp ref="CD8">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2220,7 +2228,7 @@
     <comp ref="CD9">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_10" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2229,7 +2237,7 @@
     <comp ref="CD10">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_11" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2238,7 +2246,7 @@
     <comp ref="CD11">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_11" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2247,7 +2255,7 @@
     <comp ref="CD12">
       <value>100u</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_12" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2256,7 +2264,7 @@
     <comp ref="CD13">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_15" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2265,7 +2273,7 @@
     <comp ref="CD14">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_14" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2274,7 +2282,7 @@
     <comp ref="CD15">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_16" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2283,7 +2291,7 @@
     <comp ref="CD16">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2292,7 +2300,7 @@
     <comp ref="CD17">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2301,7 +2309,7 @@
     <comp ref="CD18">
       <value>100u</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2319,7 +2327,7 @@
     <comp ref="CD20">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_17" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2328,7 +2336,7 @@
     <comp ref="CD21">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_5" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2337,7 +2345,7 @@
     <comp ref="CD22">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2346,7 +2354,7 @@
     <comp ref="CD23">
       <value>100u</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_8" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2355,7 +2363,7 @@
     <comp ref="CD24">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2364,7 +2372,7 @@
     <comp ref="CD25">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2373,7 +2381,7 @@
     <comp ref="CD26">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2382,7 +2390,7 @@
     <comp ref="CD27">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2391,7 +2399,7 @@
     <comp ref="CD28">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_1" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2400,7 +2408,7 @@
     <comp ref="CD29">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_3" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2409,7 +2417,7 @@
     <comp ref="CD30">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_2" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2418,7 +2426,7 @@
     <comp ref="CD31">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2427,7 +2435,7 @@
     <comp ref="CD32">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2436,7 +2444,7 @@
     <comp ref="CD33">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2445,7 +2453,7 @@
     <comp ref="CD34">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_13" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2454,7 +2462,7 @@
     <comp ref="CD35">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_6" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2463,7 +2471,7 @@
     <comp ref="CD36">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2472,7 +2480,7 @@
     <comp ref="CD37">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2481,7 +2489,7 @@
     <comp ref="CD38">
       <value>-</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2490,7 +2498,7 @@
     <comp ref="CD39">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2499,7 +2507,7 @@
     <comp ref="CD40">
       <value>u1</value>
       <footprint>HC2000:C025-024X044</footprint>
-      <libsource lib="" part="C-EU025-024X044_4" description=""/>
+      <libsource lib="HC2000" part="C-EU025-024X044" description=""/>
       <property name="Sheetname" value="HC2000_14"/>
       <property name="Sheetfile" value="HC2000_14.kicad_sch"/>
       <sheetpath names="/HC2000_14/" tstamps="/f1bf230e-f32f-4449-931a-9ca2d43fdeed/"/>
@@ -2644,171 +2652,6 @@
     </comp>
   </components>
   <libparts>
-    <libpart lib="" part="C-EU025-024X044_1">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_1</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_10">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_10</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_11">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_11</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_12">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_12</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_13">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_13</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_14">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_14</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_15">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_15</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_16">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_16</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_17">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_17</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_2">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_2</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_3">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_3</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_4">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_4</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_5">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_5</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_6">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_6</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="C-EU025-024X044_8">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C-EU025-024X044_8</field>
-        <field name="Footprint">HC2000:C025-024X044</field>
-      </fields>
-      <pins>
-        <pin num="+" name="+" type="passive"/>
-        <pin num="-" name="-" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="HC2000" part="1N4148DO35-10">
       <fields>
         <field name="Reference">D</field>
@@ -3750,8 +3593,8 @@
         <field name="Footprint">HC2000:C025-024X044</field>
       </fields>
       <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="HC2000" part="C-EU025-025X050">
@@ -3877,6 +3720,7 @@
         <field name="Footprint">HC2000:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm</field>
       </fields>
       <pins>
+        <pin num="0" name="GND" type="passive"/>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
         <pin num="3" name="3" type="passive"/>
@@ -3895,6 +3739,7 @@
         <field name="Footprint">HC2000:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm</field>
       </fields>
       <pins>
+        <pin num="0" name="GND" type="passive"/>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
         <pin num="3" name="3" type="passive"/>
@@ -5160,15 +5005,18 @@
       <node ref="CD9" pin="-" pinfunction="-" pintype="passive"/>
       <node ref="CX0" pin="-" pinfunction="-" pintype="passive"/>
       <node ref="CY1" pin="-" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="0" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J10" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="J10" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="J10" pin="E1" pinfunction="GND" pintype="power_in"/>
       <node ref="J10" pin="E2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="0" pinfunction="GND" pintype="passive"/>
       <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J3" pin="PE" pinfunction="PE" pintype="power_in"/>
       <node ref="J3" pin="PE@" pinfunction="PE@1" pintype="power_in"/>
       <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J5" pin="0" pinfunction="GND" pintype="passive"/>
       <node ref="J5" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="J5" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="J5" pin="8" pinfunction="8" pintype="passive"/>
@@ -6036,12 +5884,12 @@
       <node ref="UE11" pin="3" pinfunction="I" pintype="input"/>
     </net>
     <net code="268" name="Net-(UE11B-O)">
-      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C10" pin="+" pinfunction="+" pintype="passive"/>
       <node ref="R57" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="UE11" pin="4" pinfunction="O" pintype="output"/>
     </net>
     <net code="269" name="Net-(UE11C-I)">
-      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="-" pinfunction="-" pintype="passive"/>
       <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="UE11" pin="5" pinfunction="I" pintype="input"/>
     </net>

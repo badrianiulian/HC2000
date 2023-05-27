@@ -2291,7 +2291,7 @@
     (property "Value" "270p" (at 143.764 167.259 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "HC2000:C025-025X050" (at 142.24 162.56 0)
+    (property "Footprint" "HC2000:C025-030X050" (at 142.24 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 142.24 162.56 0)
