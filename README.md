@@ -18,8 +18,10 @@ Note despre diferențe:
 - Nu am observat o tăietură pe placa originală ceea ce a dus la unirea a două trasee. Această secțiune este documentată pe grupul Romanian Home Computer de Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
 <img src="Images/First Rev PCB Fix 1.jpg" width="600"/>
-- Au rămas două circuite cu titulatura veche de pe proiectul original care a fost convertit
+- Au rămas două circuite cu titulatura veche de pe proiectul original care a fost convertit:
 <img src="Images/First Rev PCB Fix 2.jpg" width="600"/>
+- Portul serial a fost testat de svpantazi. Modificarea se face sub UE10:
+<img src="Images/First Rev PCB Serial Fix.jpg" height="400"/>
 
 ## English notes
 HC2000 rebuild project
@@ -39,5 +41,7 @@ Notes on the diferences:
 - I did not notice a cut on the original PCB witch led to joining of two tracks. This section is documented on the Romanian Home Computer group by Radioman V: https://groups.google.com/g/romanianhomecomputer/c/qHbKBThCIQc/m/c_SBp--mCgAJ
 <img src="Images/First Rev PCB Fix.png" height="400"/>
 <img src="Images/First Rev PCB Fix 1.jpg" width="600"/>
-- Two circuits retained the old names from the original converted project
+- Two circuits retained the old names from the original converted project:
 <img src="Images/First Rev PCB Fix 2.jpg" width="600"/>
+- The serial port was tested by svpantazi. The fix is under UE10:
+<img src="Images/First Rev PCB Serial Fix.jpg" height="400"/>
