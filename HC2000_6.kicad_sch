@@ -3302,7 +3302,7 @@
     (property "Reference" "L1" (at 181.61 83.82 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "100" (at 175.26 83.82 90)
+    (property "Value" "100mH" (at 175.26 83.82 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "HC2000:PIS2816" (at 180.34 88.9 0)

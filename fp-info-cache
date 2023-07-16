@@ -1,4 +1,4 @@
-21668630916407025
+21683802770471447
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54383,6 +54383,13 @@ SPEAKER
 2
 2
 HC2000
+BarrelJack_Wuerth_6941xx301002
+Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
+connector barrel jack
+0
+3
+3
+HC2000
 C025-024X024
 CAPACITOR
 CAPACITOR
@@ -54411,12 +54418,26 @@ CAPACITOR
 2
 2
 HC2000
+CPOL025-025X050
+CAPACITOR
+CAPACITOR
+0
+2
+2
+HC2000
 CTRIM808-BC
 TRIMM CAPACITOR  BC-COMPONENTS
 TRIMM CAPACITOR  BC-COMPONENTS
 0
 3
 3
+HC2000
+DD1718PA
+
+
+0
+5
+5
 HC2000
 DIL-08
 DUAL IN LINE PACKAGE
@@ -54572,6 +54593,13 @@ JUMPER
 2
 2
 HC2000
+L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC
+Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=11*4.5mm^2, Fastron, MECC, http://www.fastrongroup.com/image-show/21/MECC.pdf?type=Complete-DataSheet&productType=series
+Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 11mm diameter 4.5mm Fastron MECC
+0
+2
+2
+HC2000
 MAB5SH
 FEMALE CONNECTOR
 FEMALE CONNECTOR
@@ -54586,11 +54614,25 @@ PIS 2826 INDUCTOR
 6
 5
 HC2000
+Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork
+solder Pin_ with flat fork, hole diameter 0.9mm, length 10.0mm, width 2.4mm
+solder Pin_ with flat fork
+0
+1
+1
+HC2000
 RESET_SW
 
 
 0
 6
+2
+HC2000
+R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
 2
 HC2000
 SDS-60J-CUI_SDS-60J
@@ -54607,12 +54649,33 @@ SINGLE IN LINE
 9
 9
 HC2000
+SilkFree
+
+
+0
+2
+1
+HC2000
 SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
 solder jumper open
 0
 2
 2
+HC2000
+TO-92L_Wide_cbe
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Molded Wide transistor
+0
+3
+3
+HC2000
+TO-92_Wide
+TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
 HC2000
 TO-126-3_Vertical
 TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
