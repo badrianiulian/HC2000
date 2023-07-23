@@ -1,4 +1,4 @@
-21683802770471447
+21687182406618264
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54614,6 +54614,13 @@ PIS 2826 INDUCTOR
 6
 5
 HC2000
+PinHeader_2x10_P2.54mm_Vertical
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+HC2000
 Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork
 solder Pin_ with flat fork, hole diameter 0.9mm, length 10.0mm, width 2.4mm
 solder Pin_ with flat fork
@@ -54697,6 +54704,13 @@ TO 126 HORIZONTAL
 0
 3
 3
+HC2000
+Tayda_3.5mm_stereo_TRS_jack_A-853
+
+
+0
+10
+5
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
